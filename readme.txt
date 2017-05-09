@@ -1,0 +1,1 @@
+This project is a crude ‘Social Network’ in the form of a terminal application as an exercise in java OOP concepts. You make create users, enter basic data, and post to a ‘stream.’ 
